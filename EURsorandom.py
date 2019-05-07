@@ -6,7 +6,7 @@ from datetime import datetime
 
 def EURandom():
     # now = datetime.now()
-    countries = "eurovision2018.finalists"
+    countries = "eurovision2019.parteicipants"
     names = "names.txt"
     clist = []
     nlist = []

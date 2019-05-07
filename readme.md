@@ -18,5 +18,5 @@ Outputs:
 
 Notes:
  - Does support having less countries than people and will report total number of times a duplicate was used.
- - eurovision2017.finalists will be updated once this is fully known on 11th May 2017.
+ - eurovision2019.finalists will be updated once this is fully known on 16th May 2019.
  - Can be used to match any two arbitrary newline separated lists
