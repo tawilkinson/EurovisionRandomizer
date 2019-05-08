@@ -10,7 +10,7 @@ Run with:
 ``python EURsorandom.py``
 
 Asks for 2 pieces of user input [defaults: just hit enter]:
- - Countries filename (any list of countries separated by newlines) [default: eurovision2017.participants]
+ - Countries filename (any list of countries separated by newlines) [default: eurovision2019.participants]
  - Names filename (any list of names separated by newlines) [default: names.txt]
 
 Outputs:
