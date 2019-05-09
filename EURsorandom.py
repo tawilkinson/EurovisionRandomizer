@@ -54,6 +54,9 @@ def EURandom():
         for row in nreader:
             nlist.append(row[0])
 
+    # randomise people in case you are running this repeatedly
+    random.shuffle(nlist)
+    # check if there will be duplicates
     n_people = len(nlist)
     print("Number of People: {0}".format(n_people))
 
